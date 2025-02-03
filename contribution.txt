@@ -48,3 +48,4 @@ Commit on 2025-01-24 00:00:00 - Refactor model training loop
 Commit on 2025-01-27 00:00:00 - Refactor model training loop
 Commit on 2025-01-29 00:00:00 - Refactor model training loop
 Commit on 2025-01-31 00:00:00 - Add unit tests for model evaluation
+Commit on 2025-02-03 00:00:00 - Update documentation and README
