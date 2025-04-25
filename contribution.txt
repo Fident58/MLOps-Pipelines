@@ -93,3 +93,4 @@ Commit on 2025-04-17 00:00:00 - Optimize hyperparameter tuning
 Commit on 2025-04-21 00:00:00 - Update dependencies and requirements.txt
 Commit on 2025-04-22 00:00:00 - Optimize hyperparameter tuning
 Commit on 2025-04-23 00:00:00 - Update documentation and README
+Commit on 2025-04-25 00:00:00 - Improve logging and error handling
